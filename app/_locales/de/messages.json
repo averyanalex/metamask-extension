@@ -1,6 +1,21 @@
 {
+  "QRHardwareInvalidTransactionTitle": {
+    "message": "Fehler"
+  },
+  "QRHardwareMismatchedSignId": {
+    "message": "Inkongruente Transaktionsdaten. Bitte überprüfen Sie die Transaktionsdetails."
+  },
+  "QRHardwarePubkeyAccountOutOfRange": {
+    "message": "Keine weiteren Konten. Wenn Sie auf ein Konto zugreifen möchten, das unten nicht aufgelistet ist, verbinden Sie bitte erneut Ihre Hardware-Wallet und wählen Sie diese."
+  },
+  "QRHardwareScanInstructions": {
+    "message": "Platzieren Sie den QR-Code vor Ihrer Kamera. Der Bildschirm ist verschwommen, das wirkt sich aber nicht auf das Scannen aus."
+  },
   "QRHardwareSignRequestCancel": {
     "message": "Ablehnen"
+  },
+  "QRHardwareSignRequestDescription": {
+    "message": "Nachdem Sie sich mit Ihrer Wallet angemeldet haben, klicken Sie auf 'Signatur erhalten', um die Signatur zu bekommen"
   },
   "QRHardwareWalletImporterTitle": {
     "message": "QR-Code scannen"
